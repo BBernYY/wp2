@@ -1,0 +1,30 @@
+{
+    "name": {
+        "colors": [
+            'ff0000',
+            'ff0000',
+            'ff0000',
+            'ff0000',
+            'ff0000',
+            'ff0000',
+            'ff0000',
+            'ff0000'
+        ],
+        "primary": 'ff0000',
+        "location": '~/Photos/Wallpapers/arch_purple.jpg"
+    },
+    "name2": {
+        "colors": [
+            'ff0000',
+            'ff0000',
+            'ff0000',
+            'ff0000',
+            'ff0000',
+            'ff0000',
+            'ff0000',
+            'ff0000'
+        ],
+        "primary": 'ff0000',
+        "location": '~/Photos/Wallpapers/arch_purple.jpg"
+    }
+}
