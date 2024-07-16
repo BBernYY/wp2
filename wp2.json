@@ -1,30 +1,17 @@
 {
-    "name": {
-        "colors": [
-            'ff0000',
-            'ff0000',
-            'ff0000',
-            'ff0000',
-            'ff0000',
-            'ff0000',
-            'ff0000',
-            'ff0000'
-        ],
-        "primary": 'ff0000',
-        "location": '~/Photos/Wallpapers/arch_purple.jpg"
-    },
-    "name2": {
-        "colors": [
-            'ff0000',
-            'ff0000',
-            'ff0000',
-            'ff0000',
-            'ff0000',
-            'ff0000',
-            'ff0000',
-            'ff0000'
-        ],
-        "primary": 'ff0000',
-        "location": '~/Photos/Wallpapers/arch_purple.jpg"
-    }
+  "arch_purple": {
+    "primary": "a384db",
+    "colors": [
+      "282340",
+      "a384db",
+      "6b5a91",
+      "52427e",
+      "8977b4",
+      "5c3c87",
+      "745fac",
+      "8c7ac4",
+      "7c5cac"
+    ],
+    "location": "/home/sytze/Projects/wp2/arch_purple.jpg"
+  }
 }
