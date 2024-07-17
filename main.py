@@ -8,7 +8,7 @@ from colorutils import Color
 from random import choice
 
 # Constants
-CONF_DIR = '.'
+CONF_DIR = path.expanduser('~/.config/wp2')
 
 # Parse cmd flags
 def argparser(parser):
@@ -126,8 +126,8 @@ def set_data(s, no_color=False, no_img=False):
     
 # Refresh
 def refresh():
-    for p in sorted(listdir('scripts')):
-        system('bash '+path.join('scripts', p))
+    for p in sorted(listdir(path.join(CONF_DIR, 'scripts'))):
+        system('bash '+path.join(path.join(CONF_DIR, 'scripts'), p))
         print(f'Executed {p}.')
 
 # Handle everything

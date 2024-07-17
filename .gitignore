@@ -3,3 +3,6 @@ lib
 lib64
 pyvenv.cfg
 include
+build
+dist
+wp2.spec
