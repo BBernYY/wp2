@@ -1,14 +1,15 @@
 {
-    "colors": [
-        'ff0000',
-        'ff0000',
-        'ff0000',
-        'ff0000',
-        'ff0000',
-        'ff0000',
-        'ff0000',
-        'ff0000'
-    ]
-    "primary": 'ff0000',
-    "location": '~/Photos/Wallpapers/arch_purple.jpg'
+  "primary": "57132e",
+  "colors": [
+    "751836",
+    "fb461c",
+    "2500x15",
+    "3000x23",
+    "df1b20",
+    "fb9d6b",
+    "fa6527",
+    "d2423f",
+    "f07361"
+  ],
+  "location": "/home/sytze/Photos/Wallpapers/cliff-edge.jpg"
 }
