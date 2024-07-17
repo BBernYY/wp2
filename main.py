@@ -4,6 +4,7 @@ from os import path, listdir
 import json
 import fast_colorthief
 from PIL import Image
+from colorutils import Color
 
 # Constants
 CONF_DIR = '.'
@@ -33,6 +34,13 @@ def is_valid_image_pillow(file_name):
     except (IOError, SyntaxError):
         return False
 
+def sort_colors(colors):
+    scored_colors = {}
+    for i in colors:
+        c = Color(hex=i).hsv
+        print(c[1]*c[2])
+        scored_colors[i] = c[1]*c[2]
+    return list({k: v for k, v in sorted(scored_colors.items(), key=lambda item: item[1], reverse=True)}.keys())
 nn = lambda i: path.splitext(path.basename(i))[0]
 
 # Add file to config file
@@ -51,8 +59,8 @@ def add(files, nm=None):
         name = path.splitext(path.basename(fn))[0] if nm == None else nm
         
         img = {}
-        img['primary'] = to_hex(*fast_colorthief.get_dominant_color(fn, quality=10))
-        img['colors'] = [to_hex(*i) for i in fast_colorthief.get_palette(fn)]
+        img['primary'] = Color(fast_colorthief.get_dominant_color(fn, quality=10)).hex[1:]
+        img['colors'] = sort_colors([Color(i).hex[1:] for i in fast_colorthief.get_palette(fn)])
         img['location'] = path.abspath(fn)
     
         j[name] = img

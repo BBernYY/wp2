@@ -2,30 +2,30 @@
   "3squares": {
     "primary": "141423",
     "colors": [
+      "26040e",
+      "240c1f",
       "141423",
       "bc97e9",
-      "f78977",
       "1d202a",
-      "2400x1f",
-      "2600x00x",
-      "241400x",
-      "2a1400x",
-      "00x141c"
+      "0c141c",
+      "2a1404",
+      "24140c",
+      "f78977"
     ],
     "location": "/home/sytze/Photos/Wallpapers/3squares.jpg"
   },
   "4k-keyboard": {
     "primary": "262937",
     "colors": [
-      "514f56",
-      "252835",
       "35485c",
-      "3e3842",
+      "252835",
       "2b364e",
+      "3e3842",
+      "514f56",
       "3a4c48",
+      "0c2430",
       "2f3f3f",
-      "26201c",
-      "00x2430"
+      "26201c"
     ],
     "location": "/home/sytze/Photos/Wallpapers/4k-keyboard.jpg"
   },
@@ -33,11 +33,11 @@
     "primary": "b2a8bc",
     "colors": [
       "3f425d",
-      "b7afc3",
       "202135",
       "5d5974",
-      "71708e",
       "a17790",
+      "71708e",
+      "b7afc3",
       "574963",
       "b38b98",
       "24244c"
@@ -49,10 +49,10 @@
     "colors": [
       "282340",
       "a384db",
-      "6b5a91",
       "52427e",
-      "8977b4",
+      "6b5a91",
       "5c3c87",
+      "8977b4",
       "745fac",
       "8c7ac4",
       "7c5cac"
@@ -62,13 +62,13 @@
   "black": {
     "primary": "2c3444",
     "colors": [
-      "2c3443",
       "bb6872",
+      "2c3443",
       "5e82ab",
       "86b0c7",
-      "6e6e86",
       "495d79",
       "5a7492",
+      "6e6e86",
       "455569",
       "533844"
     ],
@@ -77,15 +77,15 @@
   "catppuccin-rainbow-arch": {
     "primary": "332c44",
     "colors": [
-      "d8c4c4",
+      "6d3f57",
       "332c43",
       "93cbfb",
-      "6d3f57",
       "4e6685",
       "5b446b",
       "8cb294",
+      "567664",
       "a09084",
-      "567664"
+      "d8c4c4"
     ],
     "location": "/home/sytze/Photos/Wallpapers/catppuccin-rainbow-arch.jpg"
   },
@@ -93,12 +93,12 @@
     "primary": "30324b",
     "colors": [
       "29273f",
-      "c2afbb",
       "546581",
+      "9b6c8c",
       "75748f",
+      "c2afbb",
       "8b8ca4",
       "81809c",
-      "9b6c8c",
       "4f4b5e",
       "5c5c64"
     ],
@@ -107,15 +107,15 @@
   "catpuccin_samurai": {
     "primary": "393c4f",
     "colors": [
-      "dcd6e3",
       "91c4e5",
       "2c2e40",
       "8a99b8",
-      "80829c",
       "636882",
+      "80829c",
       "687a94",
-      "5f5c6f",
-      "bc6484"
+      "bc6484",
+      "dcd6e3",
+      "5f5c6f"
     ],
     "location": "/home/sytze/Photos/Wallpapers/catpuccin_samurai.jpg"
   },
@@ -123,28 +123,28 @@
     "primary": "57132e",
     "colors": [
       "751836",
-      "fb461c",
-      "2500x15",
-      "3000x23",
+      "250415",
       "df1b20",
+      "300c23",
+      "fb461c",
       "fb9d6b",
       "fa6527",
-      "d2423f",
-      "f07361"
+      "f07361",
+      "d2423f"
     ],
     "location": "/home/sytze/Photos/Wallpapers/cliff-edge.jpg"
   },
   "colorful-planets": {
     "primary": "161626",
     "colors": [
-      "f5867d",
-      "151626",
       "7cbefa",
-      "444c6c",
-      "a9cadd",
+      "f5867d",
       "54659a",
-      "2b3049",
+      "a9cadd",
+      "444c6c",
       "60384c",
+      "2b3049",
+      "151626",
       "4c5454"
     ],
     "location": "/home/sytze/Photos/Wallpapers/colorful-planets.jpg"
@@ -153,14 +153,14 @@
     "primary": "f88384",
     "colors": [
       "541d3a",
-      "f88284",
-      "953757",
       "b22937",
-      "fbafa2",
+      "953757",
+      "f88284",
       "f65457",
       "9f495a",
       "fbb5bf",
-      "4600x00x"
+      "fbafa2",
+      "460504"
     ],
     "location": "/home/sytze/Photos/Wallpapers/got_red.jpg"
   },
@@ -168,40 +168,40 @@
     "primary": "86cf9b",
     "colors": [
       "86d19c",
-      "eeded7",
       "1a1a13",
-      "734d4b",
-      "8a8377",
-      "a77d3a",
-      "979e61",
       "9ee2e2",
-      "54a498"
+      "a77d3a",
+      "54a498",
+      "979e61",
+      "8a8377",
+      "eeded7",
+      "734d4b"
     ],
     "location": "/home/sytze/Photos/Wallpapers/green-girl.jpg"
   },
   "ign_colorful": {
     "primary": "363a4a",
     "colors": [
-      "353746",
       "bc6e72",
+      "480c18",
+      "353746",
       "8abccf",
       "876978",
       "6886a9",
+      "45040f",
       "526784",
-      "d1cfdd",
-      "4800x18",
-      "4500x00x"
+      "d1cfdd"
     ],
     "location": "/home/sytze/Photos/Wallpapers/ign_colorful.jpg"
   },
   "lets_go_home": {
     "primary": "698bcf",
     "colors": [
-      "d39fdf",
+      "100d3f",
       "608dd1",
-      "1000x3f",
-      "a292d7",
       "1f74bb",
+      "d39fdf",
+      "a292d7",
       "56598f",
       "6a61b7",
       "96dcf8",
@@ -212,29 +212,29 @@
   "mecha-nostalgia": {
     "primary": "292634",
     "colors": [
-      "c092b3",
       "72a1d3",
-      "211d27",
-      "495077",
       "673751",
+      "c092b3",
+      "495077",
+      "211d27",
+      "9f2f47",
       "383748",
       "474c5a",
-      "8f8390",
-      "9f2f47"
+      "8f8390"
     ],
     "location": "/home/sytze/Photos/Wallpapers/mecha-nostalgia.jpg"
   },
   "minimal_gradient": {
-    "primary": "9e00x66",
+    "primary": "9e0466",
     "colors": [
-      "9e00x66",
-      "00x509f",
-      "1500x55",
-      "6000x5d",
-      "00x2b7b",
-      "3b00x5b",
-      "00x3c84",
-      "8200x5c",
+      "9e0466",
+      "60045d",
+      "150555",
+      "0c509f",
+      "3b045b",
+      "0e2b7b",
+      "82045c",
+      "0c3c84",
       "11246c"
     ],
     "location": "/home/sytze/Photos/Wallpapers/minimal_gradient.jpg"
@@ -243,29 +243,29 @@
     "primary": "313766",
     "colors": [
       "2f3563",
-      "dababa",
-      "797295",
       "616f97",
-      "9192c9",
+      "797295",
       "515e94",
-      "95a4ba",
       "201231",
-      "a4647c"
+      "9192c9",
+      "a4647c",
+      "95a4ba",
+      "dababa"
     ],
     "location": "/home/sytze/Photos/Wallpapers/minimal_landscape.jpg"
   },
   "neon-car2": {
     "primary": "17222d",
     "colors": [
-      "141f28",
-      "c55f57",
       "2bafc3",
       "187ba0",
-      "e2e9d0",
+      "141f28",
       "134967",
-      "1e657b",
       "64252f",
-      "173e4d"
+      "1e657b",
+      "173e4d",
+      "e2e9d0",
+      "c55f57"
     ],
     "location": "/home/sytze/Photos/Wallpapers/neon-car2.jpg"
   }
