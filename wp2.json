@@ -1,4 +1,49 @@
 {
+  "3squares": {
+    "primary": "141423",
+    "colors": [
+      "141423",
+      "bc97e9",
+      "f78977",
+      "1d202a",
+      "2400x1f",
+      "2600x00x",
+      "241400x",
+      "2a1400x",
+      "00x141c"
+    ],
+    "location": "/home/sytze/Photos/Wallpapers/3squares.jpg"
+  },
+  "4k-keyboard": {
+    "primary": "262937",
+    "colors": [
+      "514f56",
+      "252835",
+      "35485c",
+      "3e3842",
+      "2b364e",
+      "3a4c48",
+      "2f3f3f",
+      "26201c",
+      "00x2430"
+    ],
+    "location": "/home/sytze/Photos/Wallpapers/4k-keyboard.jpg"
+  },
+  "anime_cafe_tokyonight": {
+    "primary": "b2a8bc",
+    "colors": [
+      "3f425d",
+      "b7afc3",
+      "202135",
+      "5d5974",
+      "71708e",
+      "a17790",
+      "574963",
+      "b38b98",
+      "24244c"
+    ],
+    "location": "/home/sytze/Photos/Wallpapers/anime_cafe_tokyonight.jpg"
+  },
   "arch_purple": {
     "primary": "a384db",
     "colors": [
@@ -12,6 +57,201 @@
       "8c7ac4",
       "7c5cac"
     ],
-    "location": "/home/sytze/Projects/wp2/arch_purple.jpg"
+    "location": "/home/sytze/Photos/Wallpapers/arch_purple.jpg"
+  },
+  "black": {
+    "primary": "2c3444",
+    "colors": [
+      "2c3443",
+      "bb6872",
+      "5e82ab",
+      "86b0c7",
+      "6e6e86",
+      "495d79",
+      "5a7492",
+      "455569",
+      "533844"
+    ],
+    "location": "/home/sytze/Photos/Wallpapers/black.jpg"
+  },
+  "catppuccin-rainbow-arch": {
+    "primary": "332c44",
+    "colors": [
+      "d8c4c4",
+      "332c43",
+      "93cbfb",
+      "6d3f57",
+      "4e6685",
+      "5b446b",
+      "8cb294",
+      "a09084",
+      "567664"
+    ],
+    "location": "/home/sytze/Photos/Wallpapers/catppuccin-rainbow-arch.jpg"
+  },
+  "catpuccin_landscape": {
+    "primary": "30324b",
+    "colors": [
+      "29273f",
+      "c2afbb",
+      "546581",
+      "75748f",
+      "8b8ca4",
+      "81809c",
+      "9b6c8c",
+      "4f4b5e",
+      "5c5c64"
+    ],
+    "location": "/home/sytze/Photos/Wallpapers/catpuccin_landscape.jpg"
+  },
+  "catpuccin_samurai": {
+    "primary": "393c4f",
+    "colors": [
+      "dcd6e3",
+      "91c4e5",
+      "2c2e40",
+      "8a99b8",
+      "80829c",
+      "636882",
+      "687a94",
+      "5f5c6f",
+      "bc6484"
+    ],
+    "location": "/home/sytze/Photos/Wallpapers/catpuccin_samurai.jpg"
+  },
+  "cliff-edge": {
+    "primary": "57132e",
+    "colors": [
+      "751836",
+      "fb461c",
+      "2500x15",
+      "3000x23",
+      "df1b20",
+      "fb9d6b",
+      "fa6527",
+      "d2423f",
+      "f07361"
+    ],
+    "location": "/home/sytze/Photos/Wallpapers/cliff-edge.jpg"
+  },
+  "colorful-planets": {
+    "primary": "161626",
+    "colors": [
+      "f5867d",
+      "151626",
+      "7cbefa",
+      "444c6c",
+      "a9cadd",
+      "54659a",
+      "2b3049",
+      "60384c",
+      "4c5454"
+    ],
+    "location": "/home/sytze/Photos/Wallpapers/colorful-planets.jpg"
+  },
+  "green-girl": {
+    "primary": "86cf9b",
+    "colors": [
+      "86d19c",
+      "eeded7",
+      "1a1a13",
+      "734d4b",
+      "8a8377",
+      "a77d3a",
+      "979e61",
+      "9ee2e2",
+      "54a498"
+    ],
+    "location": "/home/sytze/Photos/Wallpapers/green-girl.jpg"
+  },
+  "ign_colorful": {
+    "primary": "363a4a",
+    "colors": [
+      "353746",
+      "bc6e72",
+      "8abccf",
+      "876978",
+      "6886a9",
+      "526784",
+      "d1cfdd",
+      "4800x18",
+      "4500x00x"
+    ],
+    "location": "/home/sytze/Photos/Wallpapers/ign_colorful.jpg"
+  },
+  "lets_go_home": {
+    "primary": "698bcf",
+    "colors": [
+      "d39fdf",
+      "608dd1",
+      "1000x3f",
+      "a292d7",
+      "1f74bb",
+      "56598f",
+      "6a61b7",
+      "96dcf8",
+      "454766"
+    ],
+    "location": "/home/sytze/Photos/Wallpapers/lets_go_home.jpg"
+  },
+  "mecha-nostalgia": {
+    "primary": "292634",
+    "colors": [
+      "c092b3",
+      "72a1d3",
+      "211d27",
+      "495077",
+      "673751",
+      "383748",
+      "474c5a",
+      "8f8390",
+      "9f2f47"
+    ],
+    "location": "/home/sytze/Photos/Wallpapers/mecha-nostalgia.jpg"
+  },
+  "minimal_gradient": {
+    "primary": "9e00x66",
+    "colors": [
+      "9e00x66",
+      "00x509f",
+      "1500x55",
+      "6000x5d",
+      "00x2b7b",
+      "3b00x5b",
+      "00x3c84",
+      "8200x5c",
+      "11246c"
+    ],
+    "location": "/home/sytze/Photos/Wallpapers/minimal_gradient.jpg"
+  },
+  "minimal_landscape": {
+    "primary": "313766",
+    "colors": [
+      "2f3563",
+      "dababa",
+      "797295",
+      "616f97",
+      "9192c9",
+      "515e94",
+      "95a4ba",
+      "201231",
+      "a4647c"
+    ],
+    "location": "/home/sytze/Photos/Wallpapers/minimal_landscape.jpg"
+  },
+  "neon-car2": {
+    "primary": "17222d",
+    "colors": [
+      "141f28",
+      "c55f57",
+      "2bafc3",
+      "187ba0",
+      "e2e9d0",
+      "134967",
+      "1e657b",
+      "64252f",
+      "173e4d"
+    ],
+    "location": "/home/sytze/Photos/Wallpapers/neon-car2.jpg"
   }
 }
