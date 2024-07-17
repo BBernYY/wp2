@@ -5,6 +5,7 @@ import json
 import fast_colorthief
 from PIL import Image
 from colorutils import Color
+from random import choice
 
 # Constants
 CONF_DIR = '.'
@@ -12,12 +13,13 @@ CONF_DIR = '.'
 # Parse cmd flags
 def argparser(parser):
     parser.add_argument('-a', '--add', nargs='+')
-    parser.add_argument('-i', '--info')
+    parser.add_argument('-i', '--info', nargs='?', const='RANDOM')
     parser.add_argument('-l', '--list', action='store_true')
-    parser.add_argument('-s', '--set')
+    parser.add_argument('-s', '--set', nargs='?', const='RANDOM')
     parser.add_argument('-r', '--refresh', action='store_true')
-    parser.add_argument('-rm', '--remove', nargs='+')
+    parser.add_argument('-rm', '--remove', nargs='*')
     parser.add_argument('-nc', '--no_color', action='store_true')
+    parser.add_argument('-ni', '--no_img', action='store_true')
     parser.add_argument('-n', '--name')
     return parser
 
@@ -38,10 +40,16 @@ def sort_colors(colors):
     scored_colors = {}
     for i in colors:
         c = Color(hex=i).hsv
-        print(c[1]*c[2])
         scored_colors[i] = c[1]*c[2]
     return list({k: v for k, v in sorted(scored_colors.items(), key=lambda item: item[1], reverse=True)}.keys())
-nn = lambda i: path.splitext(path.basename(i))[0]
+
+def nn(inp):
+    nn_old = lambda i: path.splitext(path.basename(i))[0]
+    if inp == 'RANDOM':
+        with open(CONF_DIR+'/wp2.json') as f:
+            options = list(json.load(f).keys())
+        return choice(options)
+    return nn_old(inp)
 
 # Add file to config file
 def add(files, nm=None):
